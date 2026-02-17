@@ -1,2 +1,1 @@
-# html-starter
-стартовый шаблон для верстки
+# taplink example
